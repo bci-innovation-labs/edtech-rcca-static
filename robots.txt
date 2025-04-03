@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bcircca.com/sitemap.xml
+Sitemap: https://reportcardcomments.ca/sitemap.xml
